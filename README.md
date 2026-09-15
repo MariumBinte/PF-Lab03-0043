@@ -1,11 +1,11 @@
 # PF-Lab03-0043
 # About Me
 
-Hi! I'm MariUM, a AI student with a strong interest in technology and programming.
+*Hi! I'm MariUM, a AI student with a strong interest in technology and programming.*
 
 ## Who I Am
 
-I'm currently learning programming and building my skills step by step. I enjoy solving problems, understanding how code works, and improving my logical thinking through programming challenges.
+**I'm currently learning programming and building my skills step by step. I enjoy solving problems, understanding how code works, and improving my logical thinking through programming challenges.**
 
 ## My Programming Interests
 
@@ -20,6 +20,16 @@ I'm particularly interested in:
 * Building practical projects
 
 ## What I'm Learning
+
+What I Like
+
+1. Programming
+2. Artificial Intelligence
+3. Web Development
+4. Graphic Designing
+5. Learning New Skills
+6. Problem Solving
+7. Exploring Technology
 
 Currently, I'm focusing on strengthening my programming fundamentals, especially:
 
